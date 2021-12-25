@@ -1,0 +1,29 @@
+body{
+    background-color:pink;
+    font-style: italic;
+    font-weight: bold;
+}
+ 
+.home{
+    color:rgb(193, 92, 206);
+}
+li{
+    color:rgb(201, 62, 235);
+    list-style-type: none;
+    
+  
+  
+
+}
+.header{
+    height:15vh;
+    background-color: black;
+    color:rgb(189, 145, 145);
+     display: flex; 
+    flex-direction: row;
+     justify-content: space-evenly; 
+     font-size: 1.5rem;
+     list-style-type: none;
+     margin-top:auto;
+     
+}
